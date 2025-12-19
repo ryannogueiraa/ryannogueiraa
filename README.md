@@ -55,26 +55,6 @@ Tenho experiência com **desenvolvimento de sistemas**, **APIs**, **automações
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&row=1&no-bg=true&no-frame=true" />
-</p>
-
----
-
 ## 📫 Contato
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/ryan-nogueira-631867347/  
