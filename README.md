@@ -77,9 +77,8 @@ Tenho experiência com **desenvolvimento de sistemas**, **APIs**, **automações
 ## 📫 Contato
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/ryan-nogueira-631867347/  
-💬 **Discord:** SeuUser#0000  
-📱 **WhatsApp:** (xx) xxxxx-xxxx  
-🌐 **GitHub:** https://github.com/SEU_USUARIO
+💬 **Discord:** Nogueira     
+🌐 **GitHub:** https://github.com/ryannogueiraa
 
 ---
 
