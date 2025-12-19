@@ -47,7 +47,7 @@ Tenho experiência com **desenvolvimento de sistemas**, **APIs**, **automações
 
 ## 💼 O que eu faço
 ✔️ Desenvolvimento de sistemas  
-✔️ APIs e Back-end  
+✔️ Uso de APIs e Back-end  
 ✔️ Interfaces Front-end  
 ✔️ SQL Server e Bancos de Dados  
 ✔️ Automação de processos  
