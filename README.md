@@ -50,7 +50,6 @@ Tenho experiência com **desenvolvimento de sistemas**, **APIs**, **automações
 ✔️ Uso de APIs e Back-end  
 ✔️ Interfaces Front-end  
 ✔️ SQL Server e Bancos de Dados  
-✔️ Automação de processos  
 ✔️ Manutenção e suporte técnico  
 
 ---
