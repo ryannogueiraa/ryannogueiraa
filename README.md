@@ -29,7 +29,7 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 
 ### 🧠 Back-end
 - C# (POO, Classes, Herança, Condicionais, Loops, Switch Case, Tratamento de Exceções)
-- Python (Flask)
+- Python
 - JavaScript
 - Express (básico/intermediário)
 - APIs REST
