@@ -31,14 +31,14 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 - C# (POO, Classes, Herança, Condicionais, Loops, Switch Case, Tratamento de Exceções)
 - Python
 - JavaScript
-- Express (básico/intermediário)
+- Express 
 - APIs REST
 
 ### 🎨 Front-end
 - HTML5
 - CSS3
 - JavaScript
-- Angular (conhecimento básico)
+- Angular 
 
 ### 🗄️ Banco de Dados
 - SQL Server
