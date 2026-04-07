@@ -45,6 +45,7 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 - MySQL
 - Modelagem de Banco de Dados
 - Consultas SQL
+- MongoDB
 
 ---
 
