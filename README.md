@@ -16,10 +16,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolv
 
 Tenho experiência prática no desenvolvimento de:
 
-- Sistemas Desktop com **C# (Windows Forms)**
-- APIs e projetos web com **Python (Flask)**
+- Sistemas Desktop com **C# (.NET)**
+- APIs e projetos web com **Python**
 - Interfaces responsivas com **HTML, CSS e JavaScript**
 - Bancos de dados relacionais como **MySQL e SQL Server**
+- Banco de Dados **NÃO** relacionais como **MongoDB**
 
 Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práticas, lógica bem estruturada e código limpo.
 
@@ -28,8 +29,8 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 ## 🚀 Tecnologias & Conhecimentos
 
 ### 🧠 Back-end
-- C# (POO, Classes, Herança, Condicionais, Loops, Switch Case, Tratamento de Exceções)
-- Python
+- C# (POO)
+- Python (APIs)
 - JavaScript
 - Express 
 - APIs REST
@@ -43,6 +44,7 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 ### 🗄️ Banco de Dados
 - SQL Server
 - MySQL
+- MongoDB
 - Modelagem de Banco de Dados
 - Consultas SQL
 - MongoDB
@@ -63,7 +65,7 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 
 ✔️ Desenvolvimento de sistema desktop em C#  
 ✔️ Desenvolvimento de bot para Discord em Python  
-✔️ Criação de APIs com Flask  
+✔️ Criação de APIs  
 ✔️ Desenvolvimento de interfaces web responsivas  
 ✔️ Manipulação e estruturação de bancos de dados  
 ✔️ Controle de versão com Git  
