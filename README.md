@@ -29,7 +29,7 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 ## 🚀 Tecnologias & Conhecimentos
 
 ### 🧠 Back-end
-- C# (POO)
+- C# 
 - Python (APIs)
 - JavaScript
 - Express 
