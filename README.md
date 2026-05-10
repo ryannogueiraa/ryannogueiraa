@@ -48,6 +48,7 @@ Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práti
 - Modelagem de Banco de Dados
 - Consultas SQL
 - MongoDB
+- SUPABASE
 
 ---
 
