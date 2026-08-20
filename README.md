@@ -144,7 +144,7 @@ Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, co
 
 ### Próxima formação
 
-Após concluir **Análise e Desenvolvimento de Sistemas**, pretendo cursar o **Bacharelado em Sistemas de Informação**, dando continuidade à minha formação acadêmica e aprofundando conhecimentos em tecnologia, desenvolvimento de software, sistemas de informação e arquitetura de soluções.
+Após concluir **Análise e Desenvolvimento de Sistemas**, pretendo cursar o **Bacharelado em Sistemas de Informação** para formados em **ADS**, dando continuidade à minha formação acadêmica e aprofundando conhecimentos em tecnologia, desenvolvimento de software, sistemas de informação e arquitetura de soluções.
 
 ---
 
