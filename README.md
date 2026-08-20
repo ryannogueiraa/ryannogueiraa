@@ -41,23 +41,13 @@ Também possuo conhecimento em **Prompt Engineering**, criando e refinando promp
 
 `C#` · `Java` · `Python` · `JavaScript`
 
----
-
 ### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,express,html,css,js,angular,react" />
+  <img src="https://skillicons.dev/icons?i=dotnet,html,css,js,angular,react" />
 </p>
 
-**Back-end**
-
-`.NET` · `ASP.NET` · `MVC` · `Express.js` · `REST APIs`
-
-**Front-end**
-
-`HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
-
----
+`.NET` · `ASP.NET` · `MVC` · `REST APIs` · `HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
 
 ### 🗄️ Databases
 
@@ -66,8 +56,6 @@ Também possuo conhecimento em **Prompt Engineering**, criando e refinando promp
 </p>
 
 `SQL Server` · `MySQL` · `PostgreSQL` · `MongoDB` · `Supabase`
-
----
 
 ### 🛠️ Tools & Environment
 
