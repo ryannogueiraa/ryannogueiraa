@@ -25,11 +25,9 @@ Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profis
 
 Possuo conhecimentos em **C#, Java, Python e JavaScript**, além de tecnologias voltadas ao desenvolvimento Back-end, Front-end, APIs e bancos de dados.
 
-Já desenvolvi **sites e aplicações web tanto através de desenvolvimento manual quanto utilizando Vibe Coding**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender, analisar e validar o código produzido.
+Já desenvolvi **sites e aplicações web tanto através de desenvolvimento tradicional quanto utilizando Vibe Coding**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender, analisar e validar o código produzido.
 
 Também possuo conhecimento em **Prompt Engineering**, criando e refinando prompts para obter resultados mais precisos de modelos de Inteligência Artificial.
-
-Atualmente estudo **Inteligência Artificial e Machine Learning**, utilizando Python para desenvolver conhecimentos relacionados a modelos de IA e suas aplicações no desenvolvimento de software.
 
 ---
 
@@ -45,21 +43,17 @@ Atualmente estudo **Inteligência Artificial e Machine Learning**, utilizando Py
 
 ---
 
-### 🔧 Back-end
+### 💻 Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,express" />
+  <img src="https://skillicons.dev/icons?i=dotnet,express,html,css,js,angular,react" />
 </p>
 
-`C#` · `.NET` · `ASP.NET` · `MVC` · `Express.js` · `REST APIs`
+**Back-end**
 
----
+`.NET` · `ASP.NET` · `MVC` · `Express.js` · `REST APIs`
 
-### 🎨 Front-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react" />
-</p>
+**Front-end**
 
 `HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
 
@@ -85,11 +79,11 @@ Atualmente estudo **Inteligência Artificial e Machine Learning**, utilizando Py
 
 ---
 
-## 🧠 Artificial Intelligence
+## 🧠 AI Studies
 
-Atualmente estudo **Inteligência Artificial e Machine Learning**, explorando conceitos e aplicações de modelos de IA no desenvolvimento de software.
+Estudos voltados à **Inteligência Artificial e Machine Learning**, explorando conceitos e aplicações de modelos de IA no desenvolvimento de software.
 
-### Estudos atuais
+### Estudos
 
 * Python para Inteligência Artificial
 * Machine Learning
@@ -132,9 +126,9 @@ A experiência no **Grupo Costa Norte** complementa minha formação acadêmica 
 
 Também possuo experiência no desenvolvimento de **sites e aplicações web**, utilizando diferentes abordagens de desenvolvimento.
 
-### Desenvolvimento manual
+### Desenvolvimento tradicional
 
-Construção de interfaces utilizando tecnologias como:
+Construção de interfaces e aplicações utilizando diretamente tecnologias como:
 
 `HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
 
