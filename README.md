@@ -1,7 +1,7 @@
 <h1 align="center">Ryan Nogueira</h1>
 
 <p align="center">
-  <strong>Software Developer</strong> · Back-end · APIs · Databases
+  <strong>Junior Software Developer</strong> · Back-end · Web Development · AI
 </p>
 
 <p align="center">
@@ -19,13 +19,17 @@
 
 ## 👨‍💻 About Me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor de software, com foco em **Back-end, APIs, bancos de dados e arquitetura de aplicações**.
+Sou **Junior Software Developer** e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software, Back-end, APIs, bancos de dados e aplicações web.
 
-Atualmente faço parte do **Grupo Costa Norte**, onde tenho contato com um ambiente profissional de tecnologia e desenvolvimento de soluções para necessidades reais.
+Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software em situações reais.
 
-Minha principal stack é **C# / .NET**, mas também possuo conhecimento em **Python, Java e JavaScript**.
+Minha principal stack é **C# / .NET**, mas também trabalho com **Python, Java e JavaScript**.
 
-Tenho interesse em arquitetura de software, desenvolvimento de APIs, bancos de dados e, atualmente, venho aprofundando meus estudos em **MVC, Inteligência Artificial, Machine Learning e modelos de IA**.
+Já desenvolvi **sites e aplicações web tanto através de desenvolvimento manual quanto utilizando Vibe Coding**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender e validar o código produzido.
+
+Também possuo conhecimento em **engenharia de prompts**, criando e refinando prompts para obter resultados mais precisos de modelos de Inteligência Artificial.
+
+Atualmente estou aprofundando meus estudos em **Inteligência Artificial utilizando Python**, explorando conceitos de Machine Learning, modelos de IA e aplicações práticas.
 
 ---
 
@@ -83,17 +87,19 @@ Tenho interesse em arquitetura de software, desenvolvimento de APIs, bancos de d
 
 ## 🧠 Artificial Intelligence
 
-Atualmente estou estudando **Inteligência Artificial e modelos de Machine Learning**, buscando compreender os fundamentos e aplicações dessas tecnologias no desenvolvimento de software.
+Atualmente estou estudando **Inteligência Artificial utilizando Python**, aprofundando conhecimentos em fundamentos de IA e Machine Learning.
 
 ### Estudos atuais
 
+* Python para Inteligência Artificial
 * Machine Learning
 * Aprendizado supervisionado
 * Modelos de classificação
 * Treinamento e avaliação de modelos
 * Fundamentos de IA
+* Modelos de Inteligência Artificial
+* Engenharia de Prompts
 * Integração de IA com aplicações
-* Aplicações práticas de modelos de IA
 
 ---
 
@@ -101,11 +107,12 @@ Atualmente estou estudando **Inteligência Artificial e modelos de Machine Learn
 
 <p>
   <img src="https://img.shields.io/badge/MVC-Architecture-512BD4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI-Machine%20Learning-00F7FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Java-Currently%20Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Study-00F7FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-Study-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
-**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **AI Models** · **Docker**
+**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **AI Models** · **Prompt Engineering** · **Docker**
 
 ---
 
@@ -113,11 +120,37 @@ Atualmente estou estudando **Inteligência Artificial e modelos de Machine Learn
 
 ### 🏢 Grupo Costa Norte
 
-**Technology / Software Development**
+**Junior Software Developer**
 
 Atuação em ambiente profissional de tecnologia, participando do desenvolvimento e manutenção de soluções voltadas às necessidades reais da empresa.
 
-A experiência no Grupo Costa Norte complementa minha formação acadêmica e permite aplicar conhecimentos de programação, banco de dados e desenvolvimento de software em um contexto profissional.
+A experiência no **Grupo Costa Norte** complementa minha formação acadêmica e permite aplicar conhecimentos de programação, banco de dados e desenvolvimento de software em um ambiente profissional.
+
+---
+
+## 🌐 Web Development
+
+Também possuo experiência no desenvolvimento de **sites e aplicações web**, utilizando diferentes abordagens de desenvolvimento.
+
+### Desenvolvimento manual
+
+Construção de interfaces utilizando tecnologias como:
+
+`HTML5` · `CSS3` · `JavaScript` · `Angular`
+
+### Vibe Coding
+
+Utilização de ferramentas de Inteligência Artificial para acelerar o desenvolvimento, prototipação e implementação de aplicações.
+
+O processo envolve **prompt engineering, análise do código gerado, ajustes, integração e validação das funcionalidades**, utilizando IA como ferramenta de desenvolvimento e não apenas como gerador de código.
+
+---
+
+## 🤖 AI & Prompt Engineering
+
+Trabalho com **Prompt Engineering**, estruturando instruções para modelos de IA com o objetivo de obter respostas mais consistentes e adequadas a diferentes tarefas.
+
+Atualmente aplico esse conhecimento junto aos estudos de **IA com Python**, explorando a utilização de modelos de Inteligência Artificial dentro de aplicações de software.
 
 ---
 
@@ -130,7 +163,7 @@ Projeto de automação e suporte desenvolvido em Python.
 **Tecnologias**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,discord" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 * Discord Bot
@@ -162,34 +195,24 @@ Sistema de gerenciamento de tarefas desenvolvido em **C# / .NET**, utilizando co
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=ryannogueiraa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
-
-<img
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannogueiraa&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ryannogueiraa&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
 ## 🎓 Education
 
 ### Análise e Desenvolvimento de Sistemas
 
 Formação voltada para desenvolvimento de software, programação, bancos de dados, engenharia de software, estruturas de dados e fundamentos de tecnologia.
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryannogueiraa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryannogueiraa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryannogueiraa&theme=tokyonight" />
+</p>
 
 ---
 
@@ -210,7 +233,7 @@ Formação voltada para desenvolvimento de software, programação, bancos de da
 </p>
 
 <p align="center">
-  <strong>Open to learning, building and solving real-world problems.</strong>
+  <strong>Building software, learning continuously and turning ideas into real solutions.</strong>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=100&section=footer"/>
