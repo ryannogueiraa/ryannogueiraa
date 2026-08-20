@@ -23,7 +23,7 @@ Sou **Junior Software Developer** e estudante de **Análise e Desenvolvimento de
 
 Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software em situações reais.
 
-Minha principal stack é **C# / .NET**, mas também possuo conhecimento em **Python, Java e JavaScript**.
+Possuo conhecimentos em **C#, Java, Python e JavaScript**, além de tecnologias voltadas ao desenvolvimento Back-end, Front-end, APIs e bancos de dados.
 
 Já desenvolvi **sites e aplicações web tanto através de desenvolvimento manual quanto utilizando Vibe Coding**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender, analisar e validar o código produzido.
 
@@ -158,7 +158,11 @@ Atualmente aplico esse conhecimento junto aos estudos de **IA com Python**, expl
 
 ### Análise e Desenvolvimento de Sistemas
 
-Formação voltada para desenvolvimento de software, programação, bancos de dados, engenharia de software, estruturas de dados e fundamentos de tecnologia.
+Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, com formação voltada para desenvolvimento de software, programação, bancos de dados, engenharia de software, estruturas de dados e fundamentos de tecnologia.
+
+### Próxima formação
+
+Após a conclusão de **Análise e Desenvolvimento de Sistemas**, pretendo continuar minha formação acadêmica através do **Bacharelado em Sistemas de Informação**, aprofundando conhecimentos em tecnologia, desenvolvimento de software, sistemas de informação e arquitetura de soluções.
 
 ---
 
