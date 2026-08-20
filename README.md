@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
   </a>
   <a href="https://github.com/ryannogueiraa">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
   </a>
 </p>
 
@@ -23,11 +23,11 @@ Sou **Junior Software Developer** e estudante de **Análise e Desenvolvimento de
 
 Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software em situações reais.
 
-Minha principal stack é **C# / .NET**, mas também trabalho com **Python, Java e JavaScript**.
+Minha principal stack é **C# / .NET**, mas também possuo conhecimento em **Python, Java e JavaScript**.
 
-Já desenvolvi **sites e aplicações web tanto através de desenvolvimento manual quanto utilizando Vibe Coding**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender e validar o código produzido.
+Já desenvolvi **sites e aplicações web tanto através de desenvolvimento manual quanto utilizando Vibe Coding**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender, analisar e validar o código produzido.
 
-Também possuo conhecimento em **engenharia de prompts**, criando e refinando prompts para obter resultados mais precisos de modelos de Inteligência Artificial.
+Também possuo conhecimento em **Prompt Engineering**, criando e refinando prompts para obter resultados mais precisos de modelos de Inteligência Artificial.
 
 Atualmente estou aprofundando meus estudos em **Inteligência Artificial utilizando Python**, explorando conceitos de Machine Learning, modelos de IA e aplicações práticas.
 
@@ -142,7 +142,7 @@ Construção de interfaces utilizando tecnologias como:
 
 Utilização de ferramentas de Inteligência Artificial para acelerar o desenvolvimento, prototipação e implementação de aplicações.
 
-O processo envolve **prompt engineering, análise do código gerado, ajustes, integração e validação das funcionalidades**, utilizando IA como ferramenta de desenvolvimento e não apenas como gerador de código.
+O processo envolve **Prompt Engineering, análise do código gerado, ajustes, integração e validação das funcionalidades**, utilizando IA como ferramenta de desenvolvimento.
 
 ---
 
@@ -151,47 +151,6 @@ O processo envolve **prompt engineering, análise do código gerado, ajustes, in
 Trabalho com **Prompt Engineering**, estruturando instruções para modelos de IA com o objetivo de obter respostas mais consistentes e adequadas a diferentes tarefas.
 
 Atualmente aplico esse conhecimento junto aos estudos de **IA com Python**, explorando a utilização de modelos de Inteligência Artificial dentro de aplicações de software.
-
----
-
-## 🚀 Projects
-
-### 🤖 SmartHelp
-
-Projeto de automação e suporte desenvolvido em Python.
-
-**Tecnologias**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-* Discord Bot
-* Automação
-* APIs
-* Sistema de permissões
-* Organização modular
-
----
-
-### 📋 Task Management System
-
-Sistema de gerenciamento de tarefas desenvolvido em **C# / .NET**, utilizando conceitos de Programação Orientada a Objetos e integração com banco de dados.
-
-**Tecnologias**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,supabase" />
-</p>
-
-* C#
-* .NET
-* OOP
-* CRUD
-* Services
-* Collections
-* Supabase
-* Integração com banco de dados
 
 ---
 
@@ -221,13 +180,13 @@ Formação voltada para desenvolvimento de software, programação, bancos de da
 <p align="center">
 
 <a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-   
+  
 
 <a href="https://github.com/ryannogueiraa">
-<img src="https://skillicons.dev/icons?i=github" width="45">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
