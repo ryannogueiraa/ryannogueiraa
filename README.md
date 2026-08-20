@@ -1,86 +1,167 @@
-<h1 align="center">👋 Olá, eu sou o Ryan Nogueira</h1>
+<h1 align="center">Ryan Nogueira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;C%23+%7C+Python+%7C+JavaScript;Back-end+e+Front-end;SQL+Server+%7C+MySQL;Sempre+evoluindo+na+tecnologia" />
+  <strong>Software Developer</strong> · Back-end · APIs · Databases
 </p>
 
 <p align="center">
-  🚀 Desenvolvimento de Sistemas • 💻 Back-end • 🎨 Front-end • 🛠️ Soluções Digitais
+  <a href="https://github.com/ryannogueiraa">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">LinkedIn</a>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 01 — About
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado em desenvolvimento de software e construção de soluções organizadas, eficientes e escaláveis.
+Desenvolvedor de software e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em construção de aplicações, APIs, back-end e bancos de dados.
 
-Tenho experiência prática no desenvolvimento de:
+Atualmente faço parte do **Grupo Costa Norte**, onde venho adquirindo experiência em um ambiente profissional de tecnologia e aplicando conhecimentos de desenvolvimento de software em cenários reais.
 
-- Sistemas Desktop com **C# (.NET)**
-- APIs e projetos web com **Python**
-- Interfaces responsivas com **HTML, CSS e JavaScript**
-- Bancos de dados relacionais como **MySQL e SQL Server**
-- Banco de Dados **NÃO** relacionais como **MongoDB**
+Tenho como principal stack **C# e .NET**, mas também possuo conhecimento em **Python, Java e JavaScript**.
 
-Busco constantemente evoluir minhas habilidades técnicas, aplicando boas práticas, lógica bem estruturada e código limpo.
+Meu foco está em escrever software organizado, compreender a arquitetura por trás das aplicações e evoluir constantemente através de projetos e desafios reais.
 
 ---
 
-## 🚀 Tecnologias & Conhecimentos
+## 02 — Technologies
 
-### 🧠 Back-end
-- C# 
-- Python (APIs)
-- JavaScript
-- Express 
-- APIs REST
+### Languages
 
-### 🎨 Front-end
-- HTML5
-- CSS3
-- JavaScript
-- Angular 
+```text
+C#        ████████████████████
+Python    ███████████████
+Java      ████████████
+JavaScript████████████
+```
 
-### 🗄️ Banco de Dados
-- SQL Server
-- MySQL
-- MongoDB
-- Modelagem de Banco de Dados
-- Consultas SQL
-- MongoDB
-- SUPABASE
+### Backend
 
----
+`C#` · `.NET` · `ASP.NET` · `MVC` · `Python` · `Express.js` · `REST APIs`
 
-## 🛠️ Ferramentas & Ambiente
+### Frontend
 
-- Git & GitHub
-- Visual Studio
-- VS Code
-- Windows Forms
-- SQL Server Management Studio
+`HTML5` · `CSS3` · `JavaScript` · `Angular`
+
+### Databases
+
+`SQL Server` · `MySQL` · `PostgreSQL` · `MongoDB` · `Supabase`
+
+### Tools
+
+`Git` · `GitHub` · `Visual Studio` · `VS Code` · `Docker` · `Postman`
 
 ---
 
-## 💼 Experiência Prática
+## 03 — Currently studying
 
-✔️ Desenvolvimento de sistema desktop em C#  
-✔️ Desenvolvimento de bot para Discord em Python  
-✔️ Criação de APIs  
-✔️ Desenvolvimento de interfaces web responsivas  
-✔️ Manipulação e estruturação de bancos de dados  
-✔️ Controle de versão com Git  
+> `01` · MVC & Software Architecture
+> `02` · C# / .NET
+> `03` · Java
+> `04` · REST APIs
+> `05` · Databases & SQL
+> `06` · Artificial Intelligence
+> `07` · Machine Learning & AI Models
+> `08` · Docker & Development Environments
+
+Tenho atualmente um interesse especial em **Inteligência Artificial**, estudando fundamentos de Machine Learning e diferentes modelos de IA, além de suas possibilidades de integração com aplicações de software.
 
 ---
 
-## 📫 Contato
+## 04 — Professional Experience
 
-🔗 LinkedIn: https://www.linkedin.com/in/ryan-nogueira-631867347/  
-💬 Discord: Nogueira  
-🌐 GitHub: https://github.com/ryannogueiraa  
+### Grupo Costa Norte
+
+**Technology / Software Development**
+
+Experiência profissional em ambiente corporativo, trabalhando com tecnologia e desenvolvimento de soluções para necessidades reais do negócio.
+
+A experiência no Grupo Costa Norte vem complementando minha formação acadêmica e permitindo desenvolver não apenas habilidades técnicas, mas também uma visão mais prática sobre processos, sistemas e desenvolvimento profissional.
+
+---
+
+## 05 — Selected Projects
+
+### SmartHelp
+
+Sistema e conjunto de ferramentas voltados para suporte e automação.
+
+**Stack:** `Python` · `Discord API` · `Automation`
+
+Principais experiências:
+
+* Desenvolvimento de bot para Discord
+* Organização modular do projeto
+* Automação de tarefas
+* Integração com APIs
+* Controle de permissões
+
+---
+
+### Task Management System
+
+Aplicação desenvolvida em **C#/.NET** para gerenciamento de tarefas.
+
+**Stack:** `C#` · `.NET` · `OOP` · `Supabase`
+
+Conceitos aplicados:
+
+* Object-Oriented Programming
+* CRUD
+* Services
+* Collections
+* Database integration
+* API communication
+* Application architecture
+
+---
+
+## 06 — Education
+
+**Análise e Desenvolvimento de Sistemas**
+
+Formação voltada para desenvolvimento de software, programação, banco de dados, engenharia de software e fundamentos de tecnologia.
+
+---
+
+## 07 — GitHub
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ryannogueiraa&show_icons=true&theme=transparent&hide_border=true&title_color=00F7FF&text_color=8B949E&icon_color=00F7FF"
+  />
+
+<img
+ height="170"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannogueiraa&layout=compact&theme=transparent&hide_border=true&title_color=00F7FF&text_color=8B949E"
+/>
+
+</p>
+
+---
+
+## 08 — Contact
+
+<p align="left">
+
+<strong>LinkedIn</strong><br> <a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
+linkedin.com/in/ryan-nogueira-631867347 </a>
+
+<br><br>
+
+<strong>GitHub</strong><br> <a href="https://github.com/ryannogueiraa">
+github.com/ryannogueiraa </a>
+
+<br><br>
+
+<strong>Discord</strong><br>
+Nogueira
+
+</p>
 
 ---
 
 <p align="center">
-  ⭐ Se algum projeto te ajudar, deixe uma estrela!
+  <sub>Building software, expanding knowledge and solving real problems.</sub>
 </p>
