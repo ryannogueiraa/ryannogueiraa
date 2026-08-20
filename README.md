@@ -29,7 +29,7 @@ Já desenvolvi **sites e aplicações web tanto através de desenvolvimento manu
 
 Também possuo conhecimento em **Prompt Engineering**, criando e refinando prompts para obter resultados mais precisos de modelos de Inteligência Artificial.
 
-Atualmente estou aprofundando meus estudos em **Inteligência Artificial utilizando Python**, explorando conceitos de Machine Learning, modelos de IA e aplicações práticas.
+Atualmente estudo **Inteligência Artificial e Machine Learning**, utilizando Python para desenvolver conhecimentos relacionados a modelos de IA e suas aplicações no desenvolvimento de software.
 
 ---
 
@@ -58,10 +58,10 @@ Atualmente estou aprofundando meus estudos em **Inteligência Artificial utiliza
 ### 🎨 Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,react" />
 </p>
 
-`HTML5` · `CSS3` · `JavaScript` · `Angular`
+`HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
 
 ---
 
@@ -87,7 +87,7 @@ Atualmente estou aprofundando meus estudos em **Inteligência Artificial utiliza
 
 ## 🧠 Artificial Intelligence
 
-Atualmente estou estudando **Inteligência Artificial utilizando Python**, aprofundando conhecimentos em fundamentos de IA e Machine Learning.
+Atualmente estudo **Inteligência Artificial e Machine Learning**, explorando conceitos e aplicações de modelos de IA no desenvolvimento de software.
 
 ### Estudos atuais
 
@@ -136,7 +136,7 @@ Também possuo experiência no desenvolvimento de **sites e aplicações web**, 
 
 Construção de interfaces utilizando tecnologias como:
 
-`HTML5` · `CSS3` · `JavaScript` · `Angular`
+`HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
 
 ### Vibe Coding
 
@@ -150,7 +150,7 @@ O processo envolve **Prompt Engineering, análise do código gerado, ajustes, in
 
 Trabalho com **Prompt Engineering**, estruturando instruções para modelos de IA com o objetivo de obter respostas mais consistentes e adequadas a diferentes tarefas.
 
-Atualmente aplico esse conhecimento junto aos estudos de **IA com Python**, explorando a utilização de modelos de Inteligência Artificial dentro de aplicações de software.
+Também estudo aplicações de **Inteligência Artificial e Machine Learning com Python**, explorando a utilização de modelos de IA dentro de aplicações de software.
 
 ---
 
@@ -158,11 +158,11 @@ Atualmente aplico esse conhecimento junto aos estudos de **IA com Python**, expl
 
 ### Análise e Desenvolvimento de Sistemas
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas (ADS)**, com formação voltada para desenvolvimento de software, programação, bancos de dados, engenharia de software, estruturas de dados e fundamentos de tecnologia.
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com formação voltada para desenvolvimento de software, programação, bancos de dados, engenharia de software, estruturas de dados e fundamentos de tecnologia.
 
 ### Próxima formação
 
-Após a conclusão de **Análise e Desenvolvimento de Sistemas**, pretendo continuar minha formação acadêmica através do **Bacharelado em Sistemas de Informação**, aprofundando conhecimentos em tecnologia, desenvolvimento de software, sistemas de informação e arquitetura de soluções.
+Após concluir **Análise e Desenvolvimento de Sistemas**, pretendo cursar o **Bacharelado em Sistemas de Informação**, dando continuidade à minha formação acadêmica e aprofundando conhecimentos em tecnologia, desenvolvimento de software, sistemas de informação e arquitetura de soluções.
 
 ---
 
