@@ -19,11 +19,9 @@
 
 ## 👨‍💻 About Me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisanta)** e atuo como **Assistente de Tecnologia** no **Grupo Costa Norte**. Sou apaixonado por resolver problemas através de código, com foco na construção de APIs, arquitetura Back-end e aplicações web.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisanta)** e atuo na equipe de tecnologia do **Grupo Costa Norte**. Meu foco principal é a resolução de problemas através de código, construindo APIs eficientes, arquiteturas Back-end sólidas e aplicações web modernas. 
 
-Tenho experiência prática com **C#, Python, JavaScript/TypeScript e Java**, além de vivência na estruturação de bancos de dados relacionais e NoSQL. 
-
-No dia a dia, integro o desenvolvimento tradicional com o uso estratégico de **Inteligência Artificial e Prompt Engineering**, acelerando a prototipação e garantindo a entrega de código validado, eficiente e escalável.
+Transito fluentemente entre o desenvolvimento tradicional e o uso de inteligência artificial, aplicando tecnologias como **C#, Python, JavaScript/TypeScript e Java** para entregar soluções validadas e escaláveis, sempre apoiadas por bancos de dados estruturados e NoSQL.
 
 ---
 
@@ -63,14 +61,31 @@ No dia a dia, integro o desenvolvimento tradicional com o uso estratégico de **
 
 ---
 
-## 🧠 AI Studies
+## 💼 Professional Experience
 
-Exploro a fundo conceitos e aplicações de IA no desenvolvimento de software, com foco em integrar inteligência a sistemas reais:
+### 🏢 Grupo Costa Norte
+**Assistente de Tecnologia**
 
-*   **Python aplicado:** Automações, scripts e manipulação de dados.
-*   **Machine Learning:** Aprendizado supervisionado, treinamento e avaliação de modelos de classificação.
-*   **Prompt Engineering:** Criação e refinamento de instruções para interações precisas com LLMs.
-*   **Integração:** Conexão de modelos de IA e Agentes em aplicações práticas.
+Atuação direta no desenvolvimento e sustentação de soluções para as demandas diárias da empresa. Essa vivência me permite traduzir regras de negócio em software, otimizar rotinas operacionais e aplicar fundamentos de arquitetura e banco de dados em um ambiente corporativo dinâmico e focado em resultados.
+
+---
+
+## 🌐 Web Development
+
+Construção de interfaces responsivas e sistemas modernos utilizando o ecossistema web atual, com foco em performance e experiência do usuário.
+
+**Ecossistema Web:**
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Angular` · `React` · `Next.js`
+
+---
+
+## 🤖 AI & Machine Learning Integrations
+
+Exploro a fundo a integração de inteligência artificial em sistemas reais, utilizando modelos para otimizar fluxos de trabalho e criar novas funcionalidades nas aplicações:
+
+*   **Machine Learning com Python:** Automações, manipulação de dados, aprendizado supervisionado e treinamento de modelos de classificação.
+*   **Prompt Engineering:** Criação e refinamento de instruções avançadas para LLMs, garantindo interações precisas para geração, análise e refatoração de código.
+*   **Integração e Agentes:** Conexão de modelos de IA diretamente ao back-end de aplicações de software, expandindo a capacidade das ferramentas desenvolvidas.
 
 ---
 
@@ -87,45 +102,15 @@ Exploro a fundo conceitos e aplicações de IA no desenvolvimento de software, c
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Grupo Costa Norte
-
-**Assistente de Tecnologia**
-
-Atuação direta na equipe de tecnologia, desenvolvendo e mantendo soluções para as demandas diárias da empresa. Essa experiência permite aplicar e expandir meus conhecimentos em programação, bancos de dados e arquitetura de software, traduzindo a teoria acadêmica em resultados práticos dentro de um ambiente corporativo dinâmico.
-
----
-
-## 🌐 Web Development
-
-Construção de interfaces responsivas e sistemas modernos utilizando o ecossistema web atual.
-
-### Ecossistema Web
-
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Angular` · `React` · `Next.js`
-
-### AI-Assisted Development
-
-Utilizo ferramentas de Inteligência Artificial para otimizar o fluxo de trabalho, desde a ideação até a implementação. O processo envolve a engenharia do prompt adequado, análise crítica do código gerado, refatoração de componentes e integração final, mantendo o rigor e a segurança da aplicação.
-
----
-
-## 🤖 AI & Prompt Engineering
-
-Trabalho na estruturação avançada de prompts para obter as melhores respostas de modelos de linguagem, adaptando o contexto para diferentes tarefas técnicas. Paralelamente, utilizo **Python** para conectar essas inteligências ao back-end, explorando arquiteturas que utilizam IA como núcleo funcional do software.
-
----
-
 ## 🎓 Education
 
 ### Análise e Desenvolvimento de Sistemas (ADS)
 *Universidade Santa Cecília (Unisanta)*
 
-Formação focada em desenvolvimento de software, engenharia de requisitos, estruturas de dados, bancos de dados e programação orientada a objetos.
+Base sólida em programação orientada a objetos, engenharia de requisitos, estruturas de dados e modelagem de bancos de dados.
 
 ### Próximos Passos
-Após concluir minha formação em **ADS**, planejarei meu ingresso no **Bacharelado em Sistemas de Informação**, com o objetivo de aprofundar minha base acadêmica em arquitetura de soluções complexas e gestão de tecnologia.
+Após concluir a formação em **ADS**, meu planejamento inclui o ingresso no **Bacharelado em Sistemas de Informação**, visando um aprofundamento estratégico em gestão de tecnologia e arquitetura de soluções complexas.
 
 ---
 
