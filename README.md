@@ -1,7 +1,7 @@
 <h1 align="center">Ryan Nogueira</h1>
 
 <p align="center">
-  <strong>Assistente de Tecnologia</strong> · Back-end · Web Development · AI
+  <strong>Assistente de Tecnologia</strong> · Back-end · Front-end · AI
 </p>
 
 <p align="center">
@@ -19,9 +19,11 @@
 
 ## 👨‍💻 About Me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisanta)** e atuo na equipe de tecnologia do **Grupo Costa Norte**. Meu foco principal é a resolução de problemas através de código, construindo APIs eficientes, arquiteturas Back-end sólidas e aplicações web modernas. 
+Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisanta)** e atuo na equipe de tecnologia do **Grupo Costa Norte**. Meu foco é a engenharia de software de ponta a ponta, com forte atuação no **Back-end**, desenvolvimento de interfaces no **Front-end** e a integração estratégica de **Inteligência Artificial** em sistemas reais.
 
-Transito fluentemente entre o desenvolvimento tradicional e o uso de inteligência artificial, aplicando tecnologias como **C#, Python, JavaScript/TypeScript e Java** para entregar soluções validadas e escaláveis, sempre apoiadas por bancos de dados estruturados e NoSQL.
+Desenvolvo soluções estruturadas e escaláveis utilizando **C#, Python, JavaScript/TypeScript e Java**, aliando boas práticas de arquitetura (MVC, POO) à modelagem de bancos de dados relacionais e NoSQL. 
+
+Minha base sólida no desenvolvimento tradicional me permite utilizar a IA não apenas como um assistente de código, mas como uma ferramenta poderosa para resolver problemas complexos e criar novas funcionalidades dentro das aplicações que construo.
 
 ---
 
@@ -66,26 +68,37 @@ Transito fluentemente entre o desenvolvimento tradicional e o uso de inteligênc
 ### 🏢 Grupo Costa Norte
 **Assistente de Tecnologia**
 
-Atuação direta no desenvolvimento e sustentação de soluções para as demandas diárias da empresa. Essa vivência me permite traduzir regras de negócio em software, otimizar rotinas operacionais e aplicar fundamentos de arquitetura e banco de dados em um ambiente corporativo dinâmico e focado em resultados.
+Atuação direta no desenvolvimento e sustentação de soluções tecnológicas corporativas. Essa vivência me permite traduzir regras de negócio em software, otimizar rotinas operacionais e aplicar fundamentos de arquitetura e banco de dados em um ambiente focado em resultados.
 
 ---
 
-## 🌐 Web Development
+## ⚙️ Back-end Development
 
-Construção de interfaces responsivas e sistemas modernos utilizando o ecossistema web atual, com foco em performance e experiência do usuário.
+Construção de APIs robustas, arquitetura escalável e gerenciamento inteligente de dados. Foco na resolução de lógicas complexas, segurança e performance utilizando o ecossistema corporativo:
 
-**Ecossistema Web:**
-`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Angular` · `React` · `Next.js`
+*   **Tecnologias:** `C#`, `.NET`, `Java`, `Python`.
+*   **Fundamentos:** REST APIs, Arquitetura MVC e Programação Orientada a Objetos.
+*   **Dados:** Estruturação e queries em bancos relacionais (SQL Server, MySQL, Postgres) e NoSQL (MongoDB).
 
 ---
 
-## 🤖 AI & Machine Learning Integrations
+## 🖥️ Front-end Development
 
-Exploro a fundo a integração de inteligência artificial em sistemas reais, utilizando modelos para otimizar fluxos de trabalho e criar novas funcionalidades nas aplicações:
+Desenvolvimento de interfaces dinâmicas, responsivas e focadas na experiência do usuário, integrando perfeitamente com os serviços de Back-end.
 
-*   **Machine Learning com Python:** Automações, manipulação de dados, aprendizado supervisionado e treinamento de modelos de classificação.
-*   **Prompt Engineering:** Criação e refinamento de instruções avançadas para LLMs, garantindo interações precisas para geração, análise e refatoração de código.
-*   **Integração e Agentes:** Conexão de modelos de IA diretamente ao back-end de aplicações de software, expandindo a capacidade das ferramentas desenvolvidas.
+*   **Ecossistema Web:** `HTML5`, `CSS3`, `JavaScript`, `TypeScript`.
+*   **Frameworks e Bibliotecas:** `Angular`, `React`, `Next.js`.
+
+---
+
+## 🤖 Artificial Intelligence
+
+Integração de IA como diferencial tecnológico nos sistemas. Utilizo inteligência artificial para expandir os limites do software:
+
+*   **Integração de LLMs:** Conexão de modelos de IA e Agentes diretamente às aplicações de software via APIs.
+*   **Automação e Dados:** Criação de scripts em Python para otimização de tarefas repetitivas e manipulação de informações.
+*   **Machine Learning:** Aplicação prática de algoritmos de aprendizado supervisionado e treinamento de modelos de classificação.
+*   **Prompt Engineering:** Domínio na estruturação de instruções avançadas para otimizar a geração de código, refatoração e arquitetura.
 
 ---
 
@@ -98,7 +111,7 @@ Exploro a fundo a integração de inteligência artificial em sistemas reais, ut
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
-**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **Prompt Engineering** · **Docker**
+**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **Docker**
 
 ---
 
