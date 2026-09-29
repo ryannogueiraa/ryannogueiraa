@@ -1,7 +1,7 @@
 <h1 align="center">Ryan Nogueira</h1>
 
 <p align="center">
-  <strong>Junior Software Developer</strong> · Back-end · Web Development · AI
+  <strong>Assistente de Tecnologia</strong> · Back-end · Web Development · AI
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-Sou **Junior Software Developer** e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software, Back-end, APIs, bancos de dados e aplicações web.
+Sou **Assistente de Tecnologia** e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software, Back-end, APIs, bancos de dados e aplicações web.
 
-Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software in situações reais.
+Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software em situações reais.
 
 Possuo conhecimentos em **C#, Java, Python e JavaScript**, além de tecnologias voltadas ao desenvolvimento Back-end, Front-end, APIs e bancos de dados.
 
@@ -102,7 +102,7 @@ Estudos voltados à **Inteligência Artificial e Machine Learning**, explorando 
 
 ### 🏢 Grupo Costa Norte
 
-**Junior Software Developer**
+**Assistente de Tecnologia**
 
 Atuação em ambiente profissional de tecnologia, participando do desenvolvimento e manutenção de soluções voltadas às necessidades reais da empresa.
 
