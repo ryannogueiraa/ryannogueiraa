@@ -17,88 +17,30 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisanta)** e atuo na equipe de tecnologia do **Grupo Costa Norte**. Meu foco é a engenharia de software de ponta a ponta, com forte atuação no **Back-end**, desenvolvimento de interfaces no **Front-end** e a integração estratégica de **Inteligência Artificial** em sistemas reais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisanta)** e atuo como **Assistente de Tecnologia** no **Grupo Costa Norte**. 
 
-Desenvolvo soluções estruturadas e escaláveis utilizando **C#, Python, JavaScript/TypeScript e Java**, aliando boas práticas de arquitetura (MVC, POO) à modelagem de bancos de dados relacionais e NoSQL. 
+Desenvolvo soluções de software de ponta a ponta, unindo os fundamentos do desenvolvimento tradicional com o uso estratégico de **Inteligência Artificial**. Meu foco é entregar código limpo, validado e que resolva problemas reais do negócio.
 
-Minha base sólida no desenvolvimento tradicional me permite utilizar a IA não apenas como um assistente de código, mas como uma ferramenta poderosa para resolver problemas complexos e criar novas funcionalidades dentro das aplicações que construo.
+---
+
+## 🚀 O que eu faço
+
+- ⚙️ **Back-end:** Desenvolvimento de APIs RESTful, arquitetura de sistemas e banco de dados (SQL/NoSQL) utilizando **C#, Java e Python**.
+- 🖥️ **Front-end:** Criação de interfaces responsivas e integração de APIs utilizando **Angular, React, Next.js e TypeScript**.
+- 🤖 **IA & Automação:** Automação de processos com Python, Machine Learning e uso avançado de **Prompt Engineering** para otimização de código e integração de LLMs.
 
 ---
 
 ## 🧰 Tech Stack
 
-### ⚡ Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,python,js" />
-</p>
-
-`C#` · `Java` · `Python` · `JavaScript`
-
-### 💻 Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,html,css,js,angular,react" />
-</p>
-
-`.NET` · `ASP.NET` · `MVC` · `REST APIs` · `HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
-</p>
-
-`SQL Server` · `MySQL` · `PostgreSQL` · `MongoDB` · `Supabase`
-
-### 🛠️ Tools & Environment
-
-<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,js,ts" /><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,angular,nextjs,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman" />
 </p>
-
-`Git` · `GitHub` · `Visual Studio` · `VS Code` · `Docker` · `Postman`
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Grupo Costa Norte
-**Assistente de Tecnologia**
-
-Atuação direta no desenvolvimento e sustentação de soluções tecnológicas corporativas. Essa vivência me permite traduzir regras de negócio em software, otimizar rotinas operacionais e aplicar fundamentos de arquitetura e banco de dados em um ambiente focado em resultados.
-
----
-
-## ⚙️ Back-end Development
-
-Construção de APIs robustas, arquitetura escalável e gerenciamento inteligente de dados. Foco na resolução de lógicas complexas, segurança e performance utilizando o ecossistema corporativo:
-
-*   **Tecnologias:** `C#`, `.NET`, `Java`, `Python`.
-*   **Fundamentos:** REST APIs, Arquitetura MVC e Programação Orientada a Objetos.
-*   **Dados:** Estruturação e queries em bancos relacionais (SQL Server, MySQL, Postgres) e NoSQL (MongoDB).
-
----
-
-## 🖥️ Front-end Development
-
-Desenvolvimento de interfaces dinâmicas, responsivas e focadas na experiência do usuário, integrando perfeitamente com os serviços de Back-end.
-
-*   **Ecossistema Web:** `HTML5`, `CSS3`, `JavaScript`, `TypeScript`.
-*   **Frameworks e Bibliotecas:** `Angular`, `React`, `Next.js`.
-
----
-
-## 🤖 Artificial Intelligence
-
-Integração de IA como diferencial tecnológico nos sistemas. Utilizo inteligência artificial para expandir os limites do software:
-
-*   **Integração de LLMs:** Conexão de modelos de IA e Agentes diretamente às aplicações de software via APIs.
-*   **Automação e Dados:** Criação de scripts em Python para otimização de tarefas repetitivas e manipulação de informações.
-*   **Machine Learning:** Aplicação prática de algoritmos de aprendizado supervisionado e treinamento de modelos de classificação.
-*   **Prompt Engineering:** Domínio na estruturação de instruções avançadas para otimizar a geração de código, refatoração e arquitetura.
 
 ---
 
@@ -111,23 +53,17 @@ Integração de IA como diferencial tecnológico nos sistemas. Utilizo inteligê
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
-**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **Docker**
+---
+
+## 💼 Experiência & 🎓 Educação
+
+- 🏢 **Assistente de Tecnologia** @ Grupo Costa Norte *(Atual)*
+- 🎓 **Análise e Desenvolvimento de Sistemas** @ Unisanta *(Cursando)*
+- 🔜 **Próximo passo:** Bacharelado em Sistemas de Informação
 
 ---
 
-## 🎓 Education
-
-### Análise e Desenvolvimento de Sistemas (ADS)
-*Universidade Santa Cecília (Unisanta)*
-
-Base sólida em programação orientada a objetos, engenharia de requisitos, estruturas de dados e modelagem de bancos de dados.
-
-### Próximos Passos
-Após concluir a formação em **ADS**, meu planejamento inclui o ingresso no **Bacharelado em Sistemas de Informação**, visando um aprofundamento estratégico em gestão de tecnologia e arquitetura de soluções complexas.
-
----
-
-## 📈 GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryannogueiraa&theme=tokyonight" />
@@ -140,20 +76,15 @@ Após concluir a formação em **ADS**, meu planejamento inclui o ingresso no **
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/ryannogueiraa">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="mailto:ryannogueira125@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ryannogueira125@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
