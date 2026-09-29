@@ -1,124 +1,153 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
-
-<div align="center">
-  <h1>👋 Olá, eu sou Ryan Nogueira</h1>
-  
-  <!-- Trecho de Código Animado (Typing Effect simulando programação) -->
-  <a href="https://github.com/ryannogueiraa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1500&color=00F7FF&center=true&vCenter=true&width=600&lines=const+developer+%3D+new+RyanNogueira();;developer.setRole('Assistente+de+Tecnologia');;await+developer.integrateAI(PromptEngineering);;console.log('Turning+ideas+into+real+solutions!🚀');" alt="Animated Code Snippet" />
-  </a>
-
-  <br><br>
-
-  <p>
-    <a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&height=28">
-    </a>
-    <a href="mailto:ryannogueira125@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&height=28">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/AWS-Cloud_Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&height=28">
-    </a>
-  </p>
-</div>
-
----
-
-## 👨‍💻 Sobre minha jornada
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas (UNISANTA)** e atuo como **Assistente de Tecnologia** no **Grupo Costa Norte**. Minha missão é traduzir regras de negócios complexas em softwares limpos, eficientes e de alto desempenho.
-
-Eu acredito no desenvolvimento completo: da estruturação inteligente do banco de dados até a experiência final do usuário na tela. O meu grande diferencial é a adoção estratégica da **Inteligência Artificial** no ciclo de desenvolvimento — utilizo *Prompt Engineering* avançado, integrações de LLMs e automações com Python para elevar a qualidade do código e entregar soluções que vão além do convencional.
-
----
-
-## 🚀 Especialidades & Skills
-
-*(Aqui é onde a mágica acontece nos bastidores e na tela)*
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">⚙️ Back-end & Dados</h3>
-      <p>A espinha dorsal das aplicações. Construo APIs RESTful escaláveis, aplico arquitetura MVC e gerencio regras de negócio complexas. Tenho forte atuação na modelagem de bancos de dados relacionais e NoSQL para garantir que a informação flua com segurança e velocidade.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python&perline=4" /><br>
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&perline=4" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🖥️ Front-end & Web</h3>
-      <p>Onde o usuário interage. Desenvolvo interfaces modernas, responsivas e altamente dinâmicas. O foco é consumir as APIs de forma fluida, garantindo que o sistema seja não apenas funcional, mas intuitivo e agradável para quem o utiliza no dia a dia.</p>
-      <p align="center">
-        <br>
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs&perline=4" /><br>
-        <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&perline=4" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🤖 Inteligência Artificial</h3>
-      <p>A vanguarda tecnológica. Vou além de "escrever código" utilizando a IA como um braço direito na engenharia. Crio automações potentes em Python, treino modelos de Machine Learning e estruturo prompts que aceleram testes, validações e lógicas de sistemas inteiros.</p>
-      <p align="center">
-        <br>
-        <img src="https://img.shields.io/badge/Prompt_Engineering-512BD4?style=for-the-badge"><br><br>
-        <img src="https://img.shields.io/badge/Machine_Learning-00F7FF?style=for-the-badge&logo=python&logoColor=black">
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💼 Experiência & 🎓 Educação
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🏢 Carreira Profissional</h3>
-        <strong>Assistente de Tecnologia</strong> <br>
-        <em>Grupo Costa Norte (Atual)</em><br>
-        <p>Atuação no coração tecnológico da empresa, desenvolvendo soluções reais, mantendo sistemas essenciais operacionais e aplicando automações para melhorar a eficiência das equipes internas.</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🎓 Formação Acadêmica</h3>
-        <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
-        <em>UNISANTA (Cursando)</em><br>
-        <p>Fundação sólida em POO, engenharia de requisitos e estruturas de dados.<br><br>
-        🔜 <strong>Próximo passo:</strong> Bacharelado em Sistemas de Informação.</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠️ Ferramentas & Ecossistema
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,linux,windows&perline=8" />
-</div>
-
----
-
-## 📊 Analytics do GitHub
-
-*(Acompanhe meu código e minha constância em tempo real nas estatísticas abaixo)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryannogueiraa&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=0D1117" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryannogueiraa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryannogueiraa&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br>
+<h1 align="center">Ryan Nogueira</h1>
 
 <p align="center">
-  <strong>Transformando lógicas complexas em soluções de alto impacto.</strong>
+  <strong>Assistente de Tecnologia</strong> · Back-end · Web Development · AI
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="https://github.com/ryannogueiraa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30">
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
+
+---
+
+## 👨‍💻 About Me
+
+Sou **Assistente de Tecnologia** e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software, Back-end, APIs e aplicações web.
+
+Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação, bancos de dados e integração de sistemas em situações reais.
+
+Tenho experiência prática com **C#, Java, Python e JavaScript**, trabalhando tanto com o desenvolvimento tradicional quanto integrando Inteligência Artificial como ferramenta de apoio para acelerar a prototipação, análise e validação de código.
+
+---
+
+## 🧰 Tech Stack
+
+### ⚡ Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,js" />
+</p>
+
+`C#` · `Java` · `Python` · `JavaScript`
+
+### 💻 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,html,css,js,angular,react" />
+</p>
+
+`.NET` · `ASP.NET` · `MVC` · `REST APIs` · `HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+</p>
+
+`SQL Server` · `MySQL` · `PostgreSQL` · `MongoDB` · `Supabase`
+
+### 🛠️ Tools & Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman" />
+</p>
+
+`Git` · `GitHub` · `Visual Studio` · `VS Code` · `Docker` · `Postman`
+
+---
+
+## 📚 Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/MVC-Architecture-512BD4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
+
+**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **Docker**
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Grupo Costa Norte
+
+**Assistente de Tecnologia**
+
+Atuação em ambiente profissional de tecnologia, participando do desenvolvimento e manutenção de soluções voltadas às necessidades reais da empresa. A experiência complementa minha formação acadêmica e permite aplicar lógicas de programação e banco de dados em um ambiente corporativo dinâmico.
+
+---
+
+## 🌐 Web & Back-end Development
+
+Possuo experiência no desenvolvimento de aplicações e APIs, utilizando diferentes abordagens de engenharia de software:
+
+* **Desenvolvimento tradicional:** Construção de interfaces e arquiteturas utilizando diretamente ecossistemas como `.NET`, `Java`, `Angular` e `React`.
+* **Desenvolvimento Assistido:** Utilização de IA para otimizar o fluxo de trabalho, desde a ideação de componentes até a implementação, mantendo a revisão crítica e validação rigorosa das funcionalidades.
+
+---
+
+## 🤖 AI & Machine Learning
+
+Exploro a fundo conceitos de IA aplicados ao desenvolvimento de software, estruturando integrações para obter resultados reais:
+
+*   Automações e manipulação de dados com **Python**.
+*   Estudos em **Machine Learning**, aprendizado supervisionado e modelos de classificação.
+*   **Prompt Engineering** aplicado para criar instruções precisas e conectar modelos de IA com o back-end de aplicações de software.
+
+---
+
+## 🎓 Education
+
+### Análise e Desenvolvimento de Sistemas
+
+Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na *Universidade Santa Cecília*, com formação voltada para desenvolvimento de software, bancos de dados, engenharia de software e estruturas de dados.
+
+### Próxima formação
+
+Após concluir **ADS**, pretendo cursar o **Bacharelado em Sistemas de Informação**, dando continuidade à minha formação acadêmica e aprofundando conhecimentos em arquitetura de soluções corporativas e gestão de tecnologia.
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryannogueiraa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryannogueiraa&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryannogueiraa&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ryan-nogueira-631867347/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/ryannogueiraa">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+  <strong>Building software, learning continuously and turning ideas into real solutions.</strong>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=100&section=footer"/>
