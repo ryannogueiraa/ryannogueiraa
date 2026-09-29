@@ -21,11 +21,11 @@
 
 Sou **Junior Software Developer** e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software, Back-end, APIs, bancos de dados e aplicações web.
 
-Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software em situações reais.
+Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software in situações reais.
 
 Possuo conhecimentos em **C#, Java, Python e JavaScript**, além de tecnologias voltadas ao desenvolvimento Back-end, Front-end, APIs e bancos de dados.
 
-Já desenvolvi **sites e aplicações web tanto através de desenvolvimento tradicional quanto utilizando Vibe Coding**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender, analisar e validar o código produzido.
+Já desenvolvi **sites e aplicações web tanto através de desenvolvimento tradicional quanto utilizando Prompt Engineering**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender, analisar e validar o código produzido.
 
 Também possuo conhecimento em **Prompt Engineering**, criando e refinando prompts para obter resultados mais precisos de modelos de Inteligência Artificial.
 
@@ -120,7 +120,7 @@ Construção de interfaces e aplicações utilizando diretamente tecnologias com
 
 `HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
 
-### Vibe Coding
+### Desenvolvimento Assistido por IA
 
 Utilização de ferramentas de Inteligência Artificial para acelerar o desenvolvimento, prototipação e implementação de aplicações.
 
@@ -169,7 +169,7 @@ Após concluir **Análise e Desenvolvimento de Sistemas**, pretendo cursar o **B
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://github.com/ryannogueiraa">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
