@@ -19,15 +19,11 @@
 
 ## 👨‍💻 About Me
 
-Sou **Assistente de Tecnologia** e estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento de software, Back-end, APIs, bancos de dados e aplicações web.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (Unisanta)** e atuo como **Assistente de Tecnologia** no **Grupo Costa Norte**. Sou apaixonado por resolver problemas através de código, com foco na construção de APIs, arquitetura Back-end e aplicações web.
 
-Atualmente faço parte do **Grupo Costa Norte**, onde atuo em um ambiente profissional de tecnologia, aplicando conhecimentos de programação e desenvolvimento de software em situações reais.
+Tenho experiência prática com **C#, Python, JavaScript/TypeScript e Java**, além de vivência na estruturação de bancos de dados relacionais e NoSQL. 
 
-Possuo conhecimentos em **C#, Java, Python e JavaScript**, além de tecnologias voltadas ao desenvolvimento Back-end, Front-end, APIs e bancos de dados.
-
-Já desenvolvi **sites e aplicações web tanto através de desenvolvimento tradicional quanto utilizando Prompt Engineering**, utilizando ferramentas de Inteligência Artificial como apoio durante o processo de desenvolvimento, sempre buscando compreender, analisar e validar o código produzido.
-
-Também possuo conhecimento em **Prompt Engineering**, criando e refinando prompts para obter resultados mais precisos de modelos de Inteligência Artificial.
+No dia a dia, integro o desenvolvimento tradicional com o uso estratégico de **Inteligência Artificial e Prompt Engineering**, acelerando a prototipação e garantindo a entrega de código validado, eficiente e escalável.
 
 ---
 
@@ -69,19 +65,12 @@ Também possuo conhecimento em **Prompt Engineering**, criando e refinando promp
 
 ## 🧠 AI Studies
 
-Estudos voltados à **Inteligência Artificial e Machine Learning**, explorando conceitos e aplicações de modelos de IA no desenvolvimento de software.
+Exploro a fundo conceitos e aplicações de IA no desenvolvimento de software, com foco em integrar inteligência a sistemas reais:
 
-### Estudos
-
-* Python para Inteligência Artificial
-* Machine Learning
-* Aprendizado supervisionado
-* Modelos de classificação
-* Treinamento e avaliação de modelos
-* Fundamentos de IA
-* Modelos de Inteligência Artificial
-* Engenharia de Prompts
-* Integração de IA com aplicações
+*   **Python aplicado:** Automações, scripts e manipulação de dados.
+*   **Machine Learning:** Aprendizado supervisionado, treinamento e avaliação de modelos de classificação.
+*   **Prompt Engineering:** Criação e refinamento de instruções para interações precisas com LLMs.
+*   **Integração:** Conexão de modelos de IA e Agentes em aplicações práticas.
 
 ---
 
@@ -90,11 +79,11 @@ Estudos voltados à **Inteligência Artificial e Machine Learning**, explorando 
 <p>
   <img src="https://img.shields.io/badge/MVC-Architecture-512BD4?style=for-the-badge">
   <img src="https://img.shields.io/badge/AI-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Study-00F7FF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Java-Study-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine%20Learning-00F7FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
-**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **AI Models** · **Prompt Engineering** · **Docker**
+**MVC** · **Software Architecture** · **Java** · **Artificial Intelligence** · **Machine Learning** · **Prompt Engineering** · **Docker**
 
 ---
 
@@ -104,47 +93,39 @@ Estudos voltados à **Inteligência Artificial e Machine Learning**, explorando 
 
 **Assistente de Tecnologia**
 
-Atuação em ambiente profissional de tecnologia, participando do desenvolvimento e manutenção de soluções voltadas às necessidades reais da empresa.
-
-A experiência no **Grupo Costa Norte** complementa minha formação acadêmica e permite aplicar conhecimentos de programação, banco de dados e desenvolvimento de software em um ambiente profissional.
+Atuação direta na equipe de tecnologia, desenvolvendo e mantendo soluções para as demandas diárias da empresa. Essa experiência permite aplicar e expandir meus conhecimentos em programação, bancos de dados e arquitetura de software, traduzindo a teoria acadêmica em resultados práticos dentro de um ambiente corporativo dinâmico.
 
 ---
 
 ## 🌐 Web Development
 
-Também possuo experiência no desenvolvimento de **sites e aplicações web**, utilizando diferentes abordagens de desenvolvimento.
+Construção de interfaces responsivas e sistemas modernos utilizando o ecossistema web atual.
 
-### Desenvolvimento tradicional
+### Ecossistema Web
 
-Construção de interfaces e aplicações utilizando diretamente tecnologias como:
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `Angular` · `React` · `Next.js`
 
-`HTML5` · `CSS3` · `JavaScript` · `Angular` · `React`
+### AI-Assisted Development
 
-### Desenvolvimento Assistido por IA
-
-Utilização de ferramentas de Inteligência Artificial para acelerar o desenvolvimento, prototipação e implementação de aplicações.
-
-O processo envolve **Prompt Engineering, análise do código gerado, ajustes, integração e validação das funcionalidades**, utilizando IA como ferramenta de desenvolvimento.
+Utilizo ferramentas de Inteligência Artificial para otimizar o fluxo de trabalho, desde a ideação até a implementação. O processo envolve a engenharia do prompt adequado, análise crítica do código gerado, refatoração de componentes e integração final, mantendo o rigor e a segurança da aplicação.
 
 ---
 
 ## 🤖 AI & Prompt Engineering
 
-Trabalho com **Prompt Engineering**, estruturando instruções para modelos de IA com o objetivo de obter respostas mais consistentes e adequadas a diferentes tarefas.
-
-Também estudo aplicações de **Inteligência Artificial e Machine Learning com Python**, explorando a utilização de modelos de IA dentro de aplicações de software.
+Trabalho na estruturação avançada de prompts para obter as melhores respostas de modelos de linguagem, adaptando o contexto para diferentes tarefas técnicas. Paralelamente, utilizo **Python** para conectar essas inteligências ao back-end, explorando arquiteturas que utilizam IA como núcleo funcional do software.
 
 ---
 
 ## 🎓 Education
 
-### Análise e Desenvolvimento de Sistemas
+### Análise e Desenvolvimento de Sistemas (ADS)
+*Universidade Santa Cecília (Unisanta)*
 
-Atualmente sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com formação voltada para desenvolvimento de software, programação, bancos de dados, engenharia de software, estruturas de dados e fundamentos de tecnologia.
+Formação focada em desenvolvimento de software, engenharia de requisitos, estruturas de dados, bancos de dados e programação orientada a objetos.
 
-### Próxima formação
-
-Após concluir **Análise e Desenvolvimento de Sistemas**, pretendo cursar o **Bacharelado em Sistemas de Informação** para formados em **ADS**, dando continuidade à minha formação acadêmica e aprofundando conhecimentos em tecnologia, desenvolvimento de software, sistemas de informação e arquitetura de soluções.
+### Próximos Passos
+Após concluir minha formação em **ADS**, planejarei meu ingresso no **Bacharelado em Sistemas de Informação**, com o objetivo de aprofundar minha base acadêmica em arquitetura de soluções complexas e gestão de tecnologia.
 
 ---
 
